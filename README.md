@@ -1,2 +1,2 @@
-# Web-design
-This repository contains my web design work
+# Mini-Projects
+This repository contains my project work
